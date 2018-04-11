@@ -20,6 +20,7 @@ function iLoveTheBeatles(number) {
   var nothing = []
   do {
     nothing.push("I love the Beatles!")
+    --nothing
   }
   while (number<15)
   }
