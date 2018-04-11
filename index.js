@@ -21,7 +21,7 @@ function iLoveTheBeatles(number) {
   do {
     nothing.push("I love the Beatles!")
   }
-  while {
+  while (number<15)
     
   }
 }
