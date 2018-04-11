@@ -18,7 +18,7 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles(number) {
   var nothing = [];
-  do { int i = number;
+  do { var i = number;
     nothing.push("I love the Beatles!");
     i--;
   }
