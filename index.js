@@ -18,7 +18,7 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles(number) {
   var nothing = []
-  do {
+  do {--number;
     nothing.push("I love the Beatles!")
   }
   while (--number<15)
